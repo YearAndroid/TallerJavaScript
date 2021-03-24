@@ -1,14 +1,20 @@
    //modulos 
-   let saludo ='Bievenido';
-   const suma= x => x+x;
-  export {saludo,suma};
+  /*export {saludo,suma};
+ const saludo ='Bievenido';
+ let suma= x => x+x;
+
 
   //modulo con objeto
 
-  const usuario = {
-     'id':1,
-     'nombre' :'Maycol',
-     'email': 'maycol14.com@gmail.com'
+   export const usuario = {
+     id:1,
+     nombre :'Maycol',
+     email: 'maycol14.com@gmail.com'
   }
-  export {saludo};
-  
+*/
+ 
+export {saludo, suma};
+const suma = x => x+x;
+let saludo = 'Bienvenido';
+
+   
